@@ -1,0 +1,1 @@
+body{margin:0;padding:0;display:flex;justify-content:center;align-items:center;min-height:100vh;background-color:#1a1a1a}#game-container{border:2px solid #fff}#boss-test-panel{position:fixed;top:60px;left:10px;display:flex;flex-direction:column;gap:4px;z-index:1000}#boss-test-panel button{width:36px;height:30px;padding:0;font-weight:700;cursor:pointer}
